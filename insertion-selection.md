@@ -20,7 +20,7 @@ Big-O gösterimi = O(n^2)
 
 -----
 
-[7,3,5,8,2,9,4,15,6] Selection Sort'a göre ilk 4 adımını yazacağız. Öncelikle dizinin en küçük öğesini buluyoruz. 
+[7,3,5,8,2,9,4,15,6] Selection Sort'a göre ilk 4 adımını yazacağız. Öncelikle dizinin en küçük öğesini buluyoruz.  
 
 --> Dizinin en küçük öğesi 2, bu durumda 2 en başa geçer.
 
